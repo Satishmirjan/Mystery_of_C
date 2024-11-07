@@ -1,0 +1,48 @@
+Arithmetic Operators:
+a + b = 13
+a - b = 7
+a * b = 30
+a / b = 3
+a % b = 1
+
+Relational Operators:
+a == b is 0
+a != b is 1
+a > b is 1
+a < b is 0
+a >= b is 1
+a <= b is 0
+
+Logical Operators:
+x && y is 0
+x || y is 1
+!x is 0
+
+Bitwise Operators:
+a & b = 2
+a | b = 11
+a ^ b = 9
+~a = -11
+a << 1 = 20
+a >> 1 = 5
+
+Assignment Operators:
+c += 2 => 7
+c -= 1 => 6
+c *= 3 => 18
+c /= 3 => 6
+c %= 2 => 0
+
+Increment and Decrement Operators:
+d++ = 5
+++d = 7
+d-- = 7
+--d = 5
+
+Conditional (Ternary) Operator:
+e = (a > b) ? a : b => 10
+
+Sizeof Operator:
+Size of int: 4 bytes
+Size of float: 4 bytes
+Size of char: 1 bytes
